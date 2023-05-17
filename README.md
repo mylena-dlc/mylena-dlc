@@ -4,5 +4,5 @@
  
  👨‍🎓  I'm training to be web developer
  
- 🌱  I’m currently learning HTML / CSS / PHP
+ 🌱  I’m currently learning HTML / CSS / PHP / JavaScript
 
