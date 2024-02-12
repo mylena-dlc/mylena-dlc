@@ -55,8 +55,5 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/mylena-dlc/mylena-dlc/output/snake.svg" alt="Snake animation" />
 
-###
