@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">✨ After 9 years as a photographer I've decided to move into web development. <br>🌱 I'm currently learning Symfony</h4>
+<h4 align="left">✨ After 9 years as a photographer I've decided to move into web development. <br>🌱 I'm currently learning Symfony and NextJS</h4>
 
 ###
 
